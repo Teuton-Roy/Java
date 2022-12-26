@@ -44,5 +44,3 @@ public class RadixSortTest {
         assertArrayEquals(expected, array);
     }
 }
-
-
